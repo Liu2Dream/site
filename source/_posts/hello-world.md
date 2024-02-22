@@ -12,10 +12,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-### Create a new test
+### Create a new test2
 
 ```bash
-$ hexo new "My New test"
+$ hexo new "My New test2"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
