@@ -12,7 +12,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-### Create a new test6
+### Create a new test7
 
 ```bash
 $ hexo new "My New test3"
