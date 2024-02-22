@@ -1,5 +1,4 @@
 ---
-
 title: 刘老师的造梦日记
 
 updated: 2019-10-10 10:00:00
@@ -13,10 +12,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-### Create a new post
+### Create a new test
 
 ```bash
-$ hexo new "My New Post"
+$ hexo new "My New test"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
@@ -80,5 +79,3 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
     }
 
 ```
-
-
