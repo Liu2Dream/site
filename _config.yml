@@ -140,7 +140,7 @@ live2d:
   display:
     position: right
     width: 150
-    height: 330
+    height: 300
   mobile:
     show: true
   react:
