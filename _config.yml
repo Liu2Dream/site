@@ -127,8 +127,8 @@ deploy:
 
 live2d:
   enable: true
-  # 推荐使用 jsdelivr 的 CDN 来加载
-  scriptFrom: local
+ ### 推荐使用 jsdelivr 的 CDN 来加载
+  scriptFrom: jsdelivr
   pluginRootPath: live2dw/
   pluginJsPath: lib/
   pluginModelPath: assets/
@@ -136,7 +136,7 @@ live2d:
   debug: false
   model:
     # 推荐使用 CDN 来加载模型
-    use:  live2d-widget-model-wanko   #    nito  hibiki
+    use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json    #    nito  hibiki
   display:
     position: right
     width: 150
